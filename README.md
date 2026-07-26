@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Abdur%20Rehman%20Rehan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tazxo&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=388E3C&height=180&section=header&text=Abdur%20Rehman%20Rehan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tazxo&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Web+%C2%B7+Mobile+%C2%B7+AI%2FAutomation+%C2%B7+Data+Science;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+  <!-- Color updated to TU Dortmund Green: 388E3C -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=388E3C&center=true&vCenter=true&width=600&height=50&lines=Web+%C2%B7+Mobile+%C2%B7+AI%2FAutomation+%C2%B7+Data+Science;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -34,22 +35,8 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdur-Rehman-Rehan/Abdur-Rehman-Rehan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdur-Rehman-Rehan/Abdur-Rehman-Rehan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Abdur-Rehman-Rehan/Abdur-Rehman-Rehan/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rehman-Rehan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=388E3C&height=100&section=footer" width="100%" />
